@@ -1,2 +1,2 @@
 # MY-IP-website
-Have a good day ;3
+My proprietary code displaying our IP (WAN) using the API (https://www.ipify.org/)
